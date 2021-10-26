@@ -1,0 +1,6 @@
+[1, 5, 6, 7, 8, 1, 2, 3, 4, 5]
+['#SUIT', 'DUNNO', 'ASPEN', 'SHIRE', 'HINT#', 'SUSHI', 'UNPIN', 'INERT', 'TONE#', '#DASH']
+['Spades, hearts, diamonds or clubs', '"Beats me"', 'Colorado ski resort', 'Frodo and Bilbo\'s home, with "the"', '"It rhymes with mint," for this answer', 'Seaweed-wrapped roll', 'Remove, as a corsage', 'Chemically nonreactive', 'Voicemail prompt', '"Now ___ away! ___ away! ___ away all!" (line in "A Visit From St. Nicholas")']
+{1:(0,1); 2:(0,2); 3:(0,3); 4:(0,4); 5:(1,0); 6:(2,0); 7:(3,0); 8:(4,0)}
+['#' 'S' 'U' 'I' 'T' 'D' 'U' 'N' 'N' 'O' 'A' 'S' 'P' 'E' 'N' 'S' 'H' 'I'
+ 'R' 'E' 'H' 'I' 'N' 'T' '#']

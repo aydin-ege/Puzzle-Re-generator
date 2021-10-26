@@ -1,0 +1,544 @@
+ZERO IQ AI
+Importing necessary libraries.
+Loading pretrained neural network BERT.
+Model loaded
+Loading pretrained word vector dataset.
+Dataset loaded.
+Starting clue generation.
+SHOE  : Getting dictionary data
+SHOE  : Definitions =  ['an outer covering for the human foot typically having a thick or stiff sole with an attached heel and an upper part of lighter material (such as leather)', 'a metal plate or rim for the hoof of an animal', 'to cover for protection, strength, or ornament', 'an outer covering for your foot that usually has a stiff bottom part called a sole with a thicker part called a heel attached to it and an upper part that covers part or all of the top of your foot', "another person's situation or position"] 
+
+SHOE  : Example Sentences =  ["steps from assistant stage manager into the star's shoes", 'shoe-leather journalism', 'She bought a pair of shoes.', 'He took off his shoes and socks.', 'high-heeled shoes', 'athletic/running shoes', 'shoe polish', 'a shoe store/shop', "I wouldn't want to be in his shoes right now.", 'Anyone in her shoes would have done the same thing.', 'Try to put yourself in their shoes [=try to imagine yourself in their situation] and think of how you would want to be treated.', "I don't think anyone will be able to fill her shoes [=do what she does as well as she does it] after she retires.", 'He stepped into the shoes [=took the role] of president with ease.', 'These shoes fit perfectly.', 'She was walking around the house in (her) bare feet. [=she was not wearing any shoes or socks]', 'She was in her stockinged/stocking feet. [=she was wearing socks but no shoes]', 'Wipe your feet [=rub the bottoms of your shoes on the doormat] when you come in.'] 
+
+SHOE  : Words that include the answer =  [] 
+
+
+SHOE  : Evaluating definitions
+SHOE  : Evaluating definition (an outer covering for the human foot typically having a thick or stiff sole with an attached heel and an upper part of lighter material (such as leather))
+SHOE  : Similarity is: 33
+
+
+SHOE  : Evaluating definition (a metal plate or rim for the hoof of an animal)
+SHOE  : Similarity is: 30
+
+
+SHOE  : Evaluating definition (to cover for protection, strength, or ornament)
+SHOE  : Similarity is: 22
+
+
+SHOE  : Evaluating definition (an outer covering for your foot that usually has a stiff bottom part called a sole with a thicker part called a heel attached to it and an upper part that covers part or all of the top of your foot)
+SHOE  : Similarity is: 28
+
+
+SHOE  : Evaluating definition (another person's situation or position)
+SHOE  : Similarity is: 15
+
+
+SHOE  : Best definition is selected as clue (an outer covering for the human foot typically having a thick or stiff sole with an attached heel and an upper part of lighter material)
+
+
+---------------------------------
+
+
+
+HOWL  : Getting dictionary data
+HOWL  : Definitions =  ['to emit a loud sustained doleful sound characteristic of members of the dog family', 'to cry out loudly and without restraint under strong impulse (such as pain, grief, or amusement)', 'to go on a spree or rampage', 'to make a long, loud cry that sounds sad', 'to make a long, loud sound', 'to cry out loudly in pain, anger, amusement, etc.'] 
+
+HOWL  : Example Sentences =  ['The audience howled with laughter.', 'The dogs were howling at the moon.', 'The wind was howling.', 'He howled in agony.', 'The audience howled with laughter. [=the audience laughed very loudly]', "Activists are howling (in protest) over the court's decision.", 'protesters howling for change'] 
+
+HOWL  : Words that include the answer =  [] 
+
+
+HOWL  : Evaluating definitions
+HOWL  : Evaluating definition (to emit a loud sustained doleful sound characteristic of members of the dog family)
+HOWL  : Similarity is: 48
+
+
+HOWL  : Evaluating definition (to cry out loudly and without restraint under strong impulse (such as pain, grief, or amusement))
+HOWL  : Similarity is: 41
+
+
+HOWL  : Evaluating definition (to go on a spree or rampage)
+HOWL  : Similarity is: 22
+
+
+HOWL  : Evaluating definition (to make a long, loud cry that sounds sad)
+HOWL  : Similarity is: 45
+
+
+HOWL  : Evaluating definition (to make a long, loud sound)
+HOWL  : Similarity is: 37
+
+
+HOWL  : Evaluating definition (to cry out loudly in pain, anger, amusement, etc.)
+HOWL  : Similarity is: 47
+
+
+HOWL  : Best definition is selected as clue (to emit a loud sustained doleful sound characteristic of members of the dog family)
+
+
+---------------------------------
+
+
+
+TRUNK  : Getting dictionary data
+TRUNK  : Definitions =  ['the main stem of a tree apart from limbs and roots —called also bole', 'the human or animal body apart from the head, neck, and appendages : torso', 'the thorax of an insect', 'the thick main stem of a tree', 'the main part of the human body not including the head, arms, and legs : torso', 'the main or central part of something'] 
+
+TRUNK  : Example Sentences =  ['swimming trunks', 'a nerve trunk', 'the trunk of a river', 'the trunk of an artery', 'He keeps a jack and spare tire in the trunk.', 'a trunk full of clothes'] 
+
+TRUNK  : Words that include the answer =  [] 
+
+
+TRUNK  : Evaluating definitions
+TRUNK  : Evaluating definition (the main stem of a tree apart from limbs and roots —called also bole)
+TRUNK  : Similarity is: 42
+
+
+TRUNK  : Evaluating definition (the human or animal body apart from the head, neck, and appendages : torso)
+TRUNK  : Similarity is: 46
+
+
+TRUNK  : Evaluating definition (the thorax of an insect)
+TRUNK  : Similarity is: 36
+
+
+TRUNK  : Evaluating definition (the thick main stem of a tree)
+TRUNK  : Similarity is: 37
+
+
+TRUNK  : Evaluating definition (the main part of the human body not including the head, arms, and legs : torso)
+TRUNK  : Similarity is: 42
+
+
+TRUNK  : Evaluating definition (the main or central part of something)
+TRUNK  : Similarity is: 14
+
+
+TRUNK  : Best definition is selected as clue (the human or animal body apart from the head, neck, and appendages : torso)
+
+
+---------------------------------
+
+
+
+FUSE  : Getting dictionary data
+FUSE  : Definitions =  ['to reduce to a liquid or plastic state by heat', 'to blend thoroughly by or as if by melting together : combine', 'to stitch by applying heat and pressure with or without the use of an adhesive', 'an electrical safety device consisting of or including a wire or strip of fusible metal that melts and interrupts the circuit when the current exceeds a particular amperage', 'a continuous train of a combustible substance enclosed in a cord or cable for setting off an explosive charge by transmitting fire to it', 'a mechanical or electrical detonating device for setting off the bursting charge of a projectile, bomb, or torpedo', 'a device that causes electricity to stop flowing when a current becomes too strong', 'a string that is connected to an explosive device (such as a bomb or firecracker) and that is set on fire to cause the device to explode', 'a mechanical or electrical device that causes a weapon (such as a bomb or torpedo) to explode', 'to join or become joined because of heat or a chemical reaction', 'to join or combine (different things) together'] 
+
+FUSE  : Example Sentences =  ['the thunderstorm had fused the electric mains', 'Particles are fused to form a new compound.', 'acetate rayon tends to fuse if pressed at too high a temperature', 'Dreams fuse with reality in her latest film.', '… was seen as the bad guy, the one whose short fuse was scary, destructive and uncontrollable.', 'The boss is known to have a short fuse.', "The boss blew a fuse when the shipment didn't arrive on time.", 'The lights went out when the fuse blew.', 'change a fuse', 'light a fuse', 'During the reaction the atoms fuse (together).', 'The melted metals fused (with each other).', 'Particles are fused to form a new compound.', 'He fused the wires (together).', 'His compositions fuse jazz and rhythm and blues elements.', 'Their approach fused ideas from several disciplines.', 'The light fused and left us in the dark.', 'I must have fused the light by accident.'] 
+
+FUSE  : Words that include the answer =  [] 
+
+
+FUSE  : Evaluating definitions
+FUSE  : Evaluating definition (to reduce to a liquid or plastic state by heat)
+FUSE  : Similarity is: 24
+
+
+FUSE  : Evaluating definition (to blend thoroughly by or as if by melting together : combine)
+FUSE  : Similarity is: 35
+
+
+FUSE  : Evaluating definition (to stitch by applying heat and pressure with or without the use of an adhesive)
+FUSE  : Similarity is: 28
+
+
+FUSE  : Evaluating definition (an electrical safety device consisting of or including a wire or strip of fusible metal that melts and interrupts the circuit when the current exceeds a particular amperage)
+FUSE  : Similarity is: 41
+
+
+FUSE  : Evaluating definition (a continuous train of a combustible substance enclosed in a cord or cable for setting off an explosive charge by transmitting fire to it)
+FUSE  : Similarity is: 49
+
+
+FUSE  : Evaluating definition (a mechanical or electrical detonating device for setting off the bursting charge of a projectile, bomb, or torpedo)
+FUSE  : Similarity is: 45
+
+
+FUSE  : Evaluating definition (a device that causes electricity to stop flowing when a current becomes too strong)
+FUSE  : Similarity is: 30
+
+
+FUSE  : Evaluating definition (a string that is connected to an explosive device (such as a bomb or firecracker) and that is set on fire to cause the device to explode)
+FUSE  : Similarity is: 52
+
+
+FUSE  : Evaluating definition (a mechanical or electrical device that causes a weapon (such as a bomb or torpedo) to explode)
+FUSE  : Similarity is: 47
+
+
+FUSE  : Evaluating definition (to join or become joined because of heat or a chemical reaction)
+FUSE  : Similarity is: 17
+
+
+FUSE  : Evaluating definition (to join or combine (different things) together)
+FUSE  : Similarity is: 24
+
+
+FUSE  : Best definition is selected as clue (a string that is connected to an explosive device and that is set on fire to cause the device to explode)
+
+
+---------------------------------
+
+
+
+AGED  : Getting dictionary data
+AGED  : Definitions =  ['grown old: such as', 'very old'] 
+
+AGED  : Example Sentences =  ['the aged wrinkles in my cheeks', 'aged wine', 'aged cheese', 'providing help for the aged and the sick', 'an aged oak', 'an aged man', 'a woman aged 40 [=a woman who is 40 years old]', 'a child aged 10', 'a group of men aged between 20 and 30', 'As he aged he grew more and more bitter.', "You haven't aged a day since I saw you last!", 'a book that has aged well [=a book that is still good or appealing although it is no longer new]', 'She has aged gracefully. [=she has continued to be healthy and young looking as she has gotten older]', 'His troubles have aged him.', 'Exposure to the sun has aged her skin.', 'The wine is aged in oak barrels.', 'an aged cheese'] 
+
+AGED  : Words that include the answer =  [] 
+
+
+AGED  : Evaluating definitions
+AGED  : Evaluating definition (grown old: such as)
+AGED  : Similarity is: 40
+
+
+AGED  : Evaluating definition (very old)
+AGED  : Similarity is: 43
+
+
+AGED  : Best definition is selected as clue (very old)
+
+
+---------------------------------
+
+
+
+SHRUG  : Getting dictionary data
+SHRUG  : Definitions =  ['to raise or draw in the shoulders especially to express aloofness, indifference, or uncertainty', 'to lift or contract (the shoulders) especially to express aloofness, indifference, or uncertainty', "a woman's small waist-length or shorter jacket", 'to raise and lower your shoulders usually to show that you do not know or care about something'] 
+
+SHRUG  : Example Sentences =  ['shrugging off sleep', 'shrugs off the problem', 'I asked if he wanted to go out to dinner, and he just shrugged.', 'He just shrugged his shoulders.'] 
+
+SHRUG  : Words that include the answer =  [] 
+
+
+SHRUG  : Evaluating definitions
+SHRUG  : Evaluating definition (to raise or draw in the shoulders especially to express aloofness, indifference, or uncertainty)
+SHRUG  : Similarity is: 49
+
+
+SHRUG  : Evaluating definition (to lift or contract (the shoulders) especially to express aloofness, indifference, or uncertainty)
+SHRUG  : Similarity is: 47
+
+
+SHRUG  : Evaluating definition (a woman's small waist-length or shorter jacket)
+SHRUG  : Similarity is: 9
+
+
+SHRUG  : Evaluating definition (to raise and lower your shoulders usually to show that you do not know or care about something)
+SHRUG  : Similarity is: 39
+
+
+SHRUG  : Best definition is selected as clue (to raise or draw in the shoulders especially to express aloofness, indifference, or uncertainty)
+
+
+---------------------------------
+
+
+
+HOUSE  : Getting dictionary data
+HOUSE  : Definitions =  ['a building that serves as living quarters for one or a few families : home', 'a shelter or refuge (such as a nest or den) of a wild animal', 'a natural covering (such as a test or shell) that encloses and protects an animal or a colony of zooids', 'to provide with living quarters or shelter', 'to store in a building', 'Edward Mandell 1858—1938 Colonel House American diplomat', 'a building in which a family lives —often used before another noun', 'a structure or shelter in which animals are kept', 'to surround or enclose (something) in order to protect it'] 
+
+HOUSE  : Example Sentences =  ['invited them to her house for dinner', 'a two-family house', 'woke up the whole house', 'a fraternity house', 'a movie house', 'the local fish house', 'a house of prostitution', 'a place to house their guests', 'so timorous a soul housed in so impressive a body', 'buildings that house government offices', 'Would you like to come to my house for dinner?', 'a two-family house', 'I spent the weekend just puttering around the house.', 'a fraternity house', 'The bill has been approved by both houses of Congress.', 'They had a full/packed house on opening night.', "When the movie ended, there wasn't a dry eye in the house. [=everyone had tears in their eyes]", 'More prisons are needed to house the growing number of inmates.', 'The museum houses an impressive collection of jewels.', 'The carpenter built casing to house the hot water pipes.', 'Does your doctor make house calls?'] 
+
+HOUSE  : Words that include the answer =  [] 
+
+
+HOUSE  : Evaluating definitions
+HOUSE  : Evaluating definition (a building that serves as living quarters for one or a few families : home)
+HOUSE  : Similarity is: 49
+
+
+HOUSE  : Evaluating definition (a shelter or refuge (such as a nest or den) of a wild animal)
+HOUSE  : Similarity is: 36
+
+
+HOUSE  : Evaluating definition (a natural covering (such as a test or shell) that encloses and protects an animal or a colony of zooids)
+HOUSE  : Similarity is: 15
+
+
+HOUSE  : Evaluating definition (to provide with living quarters or shelter)
+HOUSE  : Similarity is: 38
+
+
+HOUSE  : Evaluating definition (to store in a building)
+HOUSE  : Similarity is: 47
+
+
+HOUSE  : Evaluating definition (Edward Mandell 1858—1938 Colonel House American diplomat)
+HOUSE  : Similarity is: 31
+
+
+HOUSE  : Evaluating definition (a building in which a family lives —often used before another noun)
+HOUSE  : Similarity is: 41
+
+
+HOUSE  : Evaluating definition (a structure or shelter in which animals are kept)
+HOUSE  : Similarity is: 37
+
+
+HOUSE  : Evaluating definition (to surround or enclose (something) in order to protect it)
+HOUSE  : Similarity is: 16
+
+
+HOUSE  : Best definition is selected as clue (a building that serves as living quarters for one or a few families : home)
+
+
+---------------------------------
+
+
+
+OWNED  : Getting dictionary data
+OWNED  : Definitions =  [] 
+
+OWNED  : Example Sentences =  ["I know he broke the window, but so far, he hasn't owned up.", 'She drives a red truck that was originally owned by her grandfather.', 'a publicly/privately owned company', 'After everyone else denied any responsibility, he owned that he was at fault.', 'They sell quality pre-owned [=used, secondhand] cars.', 'The car is pre-owned.'] 
+
+OWNED  : Words that include the answer =  [] 
+
+
+OWNED  : Evaluating definitions
+OWNED  : No definition available to evaluate.
+OWNED  : Scraping example sentences
+OWNED  : More Examples = [ After everyone else denied any responsibility, he owned that he was at fault. , I worked at one bar on the Upper East Side that was owned by a famous Irish badass thug everyone was scared of. , ...]
+
+
+OWNED  : Evaluating example sentences
+OWNED  : Evaluating example sentence (After everyone else denied any responsibility, he owned that he was at fault.)
+OWNED  : Probability of guessing the word: 0%
+
+
+OWNED  : Evaluating example sentence (I worked at one bar on the Upper East Side that was owned by a famous Irish badass thug everyone was scared of.)
+OWNED  : Probability of guessing the word: 64%
+
+
+OWNED  : Evaluating example sentence (Beach huts, owned or leased, are not habitable but can be used as a shelter and changing room on the beach.)
+OWNED  : Probability of guessing the word: 14%
+
+
+OWNED  : Evaluating example sentence (A luxury waterfront flat believed to be owned by a Hells Angels bikie in Sydney was searched by police this afternoon.)
+OWNED  : Probability of guessing the word: 80%
+
+
+OWNED  : Evaluating example sentence (Fourth on the list of the businesses my father and his brothers had owned was a caf on the corner of San Ignacio and Lamparilla in Old Havana.)
+OWNED  : Probability of guessing the word: 8%
+
+
+OWNED  : Evaluating example sentence (For over seventy years, community owned rural telephony networks have flourished in the USA and about 1,000 exist today.)
+OWNED  : Probability of guessing the word: 0%
+
+
+OWNED  : Evaluating example sentence (He owned that, if the Test Act were repealed, the Protestants were entitled to some equivalent.)
+OWNED  : Probability of guessing the word: 0%
+
+
+OWNED  : Evaluating example sentence (Although owned and maintained by Foster Yeoman, the Class 59s were manned by British Rail staff.)
+OWNED  : Probability of guessing the word: 8%
+
+
+OWNED  : Evaluating example sentence (One proposal currently There is a comprehensive bus network, operated by the government owned bus operator Bus Vannin.)
+OWNED  : Probability of guessing the word: 51%
+
+
+OWNED  : Evaluating example sentence (This is usually held in a grand municipally owned location in the city centre.)
+OWNED  : Probability of guessing the word: 7%
+
+
+OWNED  : Evaluating example sentence (Her lifelong love of corgis began in 1933 with Dookie, the first corgi owned by her family.)
+OWNED  : Probability of guessing the word: 5%
+
+
+OWNED  : Evaluating example sentence (Gaelic Irish society was also patrilineal, with land being primarily owned by men and inherited by the sons.)
+OWNED  : Probability of guessing the word: 28%
+
+
+OWNED  : Evaluating example sentence (Sometimes they were owned by individuals and sometimes they were the common property of those living round the ferry.)
+OWNED  : Probability of guessing the word: 75%
+
+
+OWNED  : Evaluating example sentence (Many of the supplies brought into the Confederacy were carried aboard privately owned vessels.)
+OWNED  : Probability of guessing the word: 96%
+
+
+OWNED  : Evaluating example sentence (A family's status was indicated by the number of slaves it owned, leading to wars for the sole purpose of taking more captives.)
+OWNED  : Probability of guessing the word: 19%
+
+
+OWNED  : Evaluating example sentence (In 1911, of the 654 wholesale companies in Istanbul, 528 were owned by ethnic Greeks.)
+OWNED  : Probability of guessing the word: 77%
+
+
+OWNED  : Evaluating example sentence (This holding company owned housing corporations, factories, and publishing houses.)
+OWNED  : Probability of guessing the word: 0%
+
+
+OWNED  : Evaluating example sentence (She spent her childhood in Grantham, where her father owned two grocery shops.)
+OWNED  : Probability of guessing the word: 48%
+
+
+OWNED  : Evaluating example sentence (For example, buying a CDS to insure a CDO ended up giving the seller the same risk as if they owned the CDO, when those CDO's became worthless.)
+OWNED  : Probability of guessing the word: 1%
+
+
+OWNED  : Evaluating example sentence (Loch Druidibeg on South Uist is a national nature reserve owned and managed by Scottish Natural Heritage.)
+OWNED  : Probability of guessing the word: 85%
+
+
+OWNED  : Evaluating example sentence (Most of the museums and galleries in Glasgow are publicly owned and free to enter.)
+OWNED  : Probability of guessing the word: 30%
+
+
+OWNED  : Evaluating example sentence (The area is partly owned by the National Trust and sees a large number of visitors every year.)
+OWNED  : Probability of guessing the word: 62%
+
+
+OWNED  : Evaluating example sentence (Aberdeen City Council is responsible for city owned infrastructure which is paid for by a mixture of council tax and income from HM Treasury.)
+OWNED  : Probability of guessing the word: 0%
+
+
+OWNED  : Evaluating example sentence (In 1966, the British government purchased the privately owned copra plantations and closed them.)
+OWNED  : Probability of guessing the word: 86%
+
+
+OWNED  : Evaluating example sentence (Public services, such as water, wastewater, the two main harbours and the airport are still owned and controlled by the States of Guernsey.)
+OWNED  : Probability of guessing the word: 16%
+
+
+OWNED  : Evaluating example sentence (Newtel was acquired by Wave Telecom in 2010 which in turn was acquired by JT, owned by Jersey Telecom, providing broadband and mobile services.)
+OWNED  : Probability of guessing the word: 45%
+
+
+OWNED  : Evaluating example sentence (These restrictions apply equally regardless of whether the property is owned or rented, and only apply to occupation of the property.)
+OWNED  : Probability of guessing the word: 92%
+
+
+OWNED  : Evaluating example sentence (As a result, vehicles owned by personnel ceased to have distinct registration plates, which had made them easily identifiable.)
+OWNED  : Probability of guessing the word: 12%
+
+
+OWNED  : Evaluating example sentence (Airbus UK is a wholly owned subsidiary of Airbus SAS which produces wings for the Airbus aircraft family.)
+OWNED  : Probability of guessing the word: 99%
+
+
+OWNED  : Most guessable example sentence is selected as clue (Airbus UK is a wholly _____ subsidiary of Airbus SAS which produces wings for the Airbus aircraft family.)
+
+
+---------------------------------
+
+
+
+ELK  : Getting dictionary data
+ELK  : Definitions =  ['moose —used for one of the Old World', 'a large gregarious deer (Cervus elaphus) of North America, Europe, Asia, and northwestern Africa with the male having large antlers and many tines and that often form large herds —called also red deer, wapiti', 'any of various large Asian deer', 'a large kind of North American deer with big antlers', 'a European or Asian moose'] 
+
+ELK  : Example Sentences =  [] 
+
+ELK  : Words that include the answer =  [] 
+
+
+ELK  : Evaluating definitions
+ELK  : Evaluating definition (moose —used for one of the Old World)
+ELK  : Similarity is: 47
+
+
+ELK  : Evaluating definition (a large gregarious deer (Cervus elaphus) of North America, Europe, Asia, and northwestern Africa with the male having large antlers and many tines and that often form large herds —called also red deer, wapiti)
+ELK  : Similarity is: 44
+
+
+ELK  : Evaluating definition (any of various large Asian deer)
+ELK  : Similarity is: 53
+
+
+ELK  : Evaluating definition (a large kind of North American deer with big antlers)
+ELK  : Similarity is: 60
+
+
+ELK  : Evaluating definition (a European or Asian moose)
+ELK  : Similarity is: 44
+
+
+ELK  : Best definition is selected as clue (a large kind of North American deer with big antlers)
+
+
+---------------------------------
+
+
+
+TFA  : Getting dictionary data
+TFA  : Definitions =  [] 
+
+TFA  : Example Sentences =  [] 
+
+TFA  : Words that include the answer =  [] 
+
+
+TFA  : Evaluating definitions
+TFA  : No definition available to evaluate.
+TFA  : Scraping example sentences
+TFA  : More Examples =  [] 
+
+
+TFA  : Evaluating example sentences
+TFA  : Scraping Google Knowledge Graph
+TFA  : Data from Google Knowledge Graph =  ['_____il, Village in Lebanon', '_____il, a village in eastern Baalbek District, Baalbek-Hermel Governorate, Lebanon', '_____P2C, Protein', 'Transcription factor AP-2 gamma also known as AP2-gamma is a protein that in humans is encoded by the _____P2C gene'] 
+
+
+TFA  : Evaluating data
+TFA  : Word isn't in the dataset. Cannot evaluate definitions.
+TFA  : A random Google Knowledge Graph output is selected as clue (_____il, Village in Lebanon)
+
+
+---------------------------------
+
+
+
+SHOE :
+	Old clue: Something bought and soled
+	New clue: an outer covering for the human foot typically having a thick or stiff sole with an attached heel and an upper part of lighter material
+
+
+HOWL :
+	Old clue: Sound of the roaring wind
+	New clue: to emit a loud sustained doleful sound characteristic of members of the dog family
+
+
+TRUNK :
+	Old clue: Part of a car, tree or elephant
+	New clue: the human or animal body apart from the head, neck, and appendages : torso
+
+
+FUSE :
+	Old clue: Lit part of a stick of dynamite
+	New clue: a string that is connected to an explosive device and that is set on fire to cause the device to explode
+
+
+AGED :
+	Old clue: Like fine wines
+	New clue: very old
+
+
+SHRUG :
+	Old clue: Apathetic gesture
+	New clue: to raise or draw in the shoulders especially to express aloofness, indifference, or uncertainty
+
+
+HOUSE :
+	Old clue: Group that voted for Trump's impeachment
+	New clue: a building that serves as living quarters for one or a few families : home
+
+
+OWNED :
+	Old clue: Possessed
+	New clue: Airbus UK is a wholly _____ subsidiary of Airbus SAS which produces wings for the Airbus aircraft family.
+
+
+ELK :
+	Old clue: Colorado has the largest population of this animal in the world, at over 280,000
+	New clue: a large kind of North American deer with big antlers
+
+
+TFA :
+	Old clue: Nonprofit that recruits college grads into education: Abbr.
+	New clue: _____il, Village in Lebanon
+
+
+Clue generation completed.
